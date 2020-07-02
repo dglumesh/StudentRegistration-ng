@@ -1,0 +1,30 @@
+C:\Users\milivera\Desktop\StudentApp\studentApi\bin\Debug\netcoreapp2.2\studentApi.deps.json
+C:\Users\milivera\Desktop\StudentApp\studentApi\bin\Debug\netcoreapp2.2\studentApi.runtimeconfig.json
+C:\Users\milivera\Desktop\StudentApp\studentApi\bin\Debug\netcoreapp2.2\studentApi.runtimeconfig.dev.json
+C:\Users\milivera\Desktop\StudentApp\studentApi\bin\Debug\netcoreapp2.2\studentApi.dll
+C:\Users\milivera\Desktop\StudentApp\studentApi\bin\Debug\netcoreapp2.2\studentApi.pdb
+C:\Users\milivera\Desktop\StudentApp\studentApi\obj\Debug\netcoreapp2.2\studentApi.csprojAssemblyReference.cache
+C:\Users\milivera\Desktop\StudentApp\studentApi\obj\Debug\netcoreapp2.2\studentApi.csproj.CoreCompileInputs.cache
+C:\Users\milivera\Desktop\StudentApp\studentApi\obj\Debug\netcoreapp2.2\studentApi.RazorAssemblyInfo.cache
+C:\Users\milivera\Desktop\StudentApp\studentApi\obj\Debug\netcoreapp2.2\studentApi.RazorAssemblyInfo.cs
+C:\Users\milivera\Desktop\StudentApp\studentApi\obj\Debug\netcoreapp2.2\studentApi.AssemblyInfoInputs.cache
+C:\Users\milivera\Desktop\StudentApp\studentApi\obj\Debug\netcoreapp2.2\studentApi.AssemblyInfo.cs
+C:\Users\milivera\Desktop\StudentApp\studentApi\obj\Debug\netcoreapp2.2\studentApi.RazorTargetAssemblyInfo.cache
+C:\Users\milivera\Desktop\StudentApp\studentApi\obj\Debug\netcoreapp2.2\studentApi.dll
+C:\Users\milivera\Desktop\StudentApp\studentApi\obj\Debug\netcoreapp2.2\studentApi.pdb
+D:\Important codes\studentApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Important codes\studentApi\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Important codes\studentApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Important codes\studentApi\bin\Debug\netcoreapp2.2\studentApi.deps.json
+D:\Important codes\studentApi\bin\Debug\netcoreapp2.2\studentApi.runtimeconfig.json
+D:\Important codes\studentApi\bin\Debug\netcoreapp2.2\studentApi.runtimeconfig.dev.json
+D:\Important codes\studentApi\bin\Debug\netcoreapp2.2\studentApi.dll
+D:\Important codes\studentApi\bin\Debug\netcoreapp2.2\studentApi.pdb
+D:\Important codes\studentApi\obj\Debug\netcoreapp2.2\studentApi.csprojAssemblyReference.cache
+D:\Important codes\studentApi\obj\Debug\netcoreapp2.2\studentApi.RazorAssemblyInfo.cache
+D:\Important codes\studentApi\obj\Debug\netcoreapp2.2\studentApi.RazorAssemblyInfo.cs
+D:\Important codes\studentApi\obj\Debug\netcoreapp2.2\studentApi.AssemblyInfoInputs.cache
+D:\Important codes\studentApi\obj\Debug\netcoreapp2.2\studentApi.AssemblyInfo.cs
+D:\Important codes\studentApi\obj\Debug\netcoreapp2.2\studentApi.RazorTargetAssemblyInfo.cache
+D:\Important codes\studentApi\obj\Debug\netcoreapp2.2\studentApi.dll
+D:\Important codes\studentApi\obj\Debug\netcoreapp2.2\studentApi.pdb

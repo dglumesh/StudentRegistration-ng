@@ -1,0 +1,73 @@
+
+<form #form="ngForm" autocomplete="off" (submit)="onSubmit(form)">
+        <!-- <form #form="ngForm" autocomplete="off" (submit)="onSubmit(form)"> -->
+        <input type="hidden" name="EnrollmentID" [value]="service.formData1.EnrollmentID" />
+        <div class="form-group">
+         
+           
+                <label>Student:</label>  
+                <select class="form-control"
+                name="StudentID"
+              #StudentID="ngModel"
+              [(ngModel)]="service.formData1.StudentID"
+                >  
+                                         <option value="0">--Select--</option>  
+                                         <option *ngFor="let sd of service.list2"  value={{sd.StudentID}}
+                                             
+                                         >  
+                                                 {{ sd.FirstName }} 
+                                         </option>  
+                  </select>  
+              
+        </div>
+
+        <div class="form-group">
+         
+           
+                <label>Course:</label>  
+                <select class="form-control"
+                name="CourseID"
+              #CourseID="ngModel"
+              [(ngModel)]="service.formData1.CourseID"
+                >  
+                                         <option value="0">--Select--</option>  
+                                         <option *ngFor="let cd of service.list1"  value={{cd.CourseID}}
+                                         
+                                         >  
+                                                 {{ cd.CourseName }} 
+                                         </option>  
+                  </select>  
+           
+        </div>
+        <!-- <div class="form-group">
+         
+           
+                <label>Grade:</label>  
+                <select name="Grade"
+                [(ngModel)]="service.formData1.Grade">  
+                                         <option value="0">--Select--</option>  
+                                         
+                                                <option [value]="service.formData1.Grade">A</option>
+                                                <option [value]="service.formData1.Grade">B</option>
+                                                <option [value]="service.formData1.Grade">C</option>
+                                                <option [value]="service.formData1.Grade">D</option>
+                                                <option [value]="service.formData1.Grade">F</option>
+                                        
+                  </select>  
+           
+        </div> -->
+      
+     
+        
+        
+        <div class="form-group">
+        <button
+            class="btn btn-success btn-lg btn-block"
+            type="submit"
+            [disabled]="form.invalid"
+          >
+            <i class="fas fa-database"></i> Submit
+          </button>
+        </div>
+      </form>
+      

@@ -1,0 +1,25 @@
+<table class="table table-hover">
+        <thead class="thead-dark">
+        <tr>
+          <th scope="col">Student Name</th>
+          <th scope="col">Course Name</th>
+         
+          <th>Delete</th>
+          
+        </tr>  
+      </thead>
+        <tr *ngFor="let pd of service.list4" >
+            
+            <td id="data" (click)="populateForm(pd)">{{ pd.fName }}</td>
+            <td id="data" (click)="populateForm(pd)">{{ pd.cName }}</td>
+          
+           
+            <td>
+              <i
+                class="fas fa-minus-circle fa-lg text-danger"
+                (click)="onDelete(pd.eName)"
+              ></i>
+            </td>
+          </tr>
+        </table>
+        
